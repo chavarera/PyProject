@@ -6,4 +6,4 @@ This is Simple Directory Of Different Python Project List
 
 |         | Project Name  |Github|Author|
 |-----------------------------------------|------------------|------------------|------------------|
-|1|Windows Saved Password Manager ⠀⠀ |[::link::](https://github.com/chavarera/WSPManager) | [chavarera](https://github.com/chavarera)
+|1|Windows Saved Password Manager ⠀⠀ |[:link:](https://github.com/chavarera/WSPManager) | [chavarera](https://github.com/chavarera)
