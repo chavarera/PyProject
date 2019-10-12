@@ -13,4 +13,4 @@ This is Simple Directory Of Different Python Project List
 ### UI Based Projects
 |         |Level | Project Name  |Github|Author|
 |-----------------------------------------|------------------|------------------|------------------|------------------|
-|3| Fantasy Cricket Game |[:link:](https://github.com/chavarera/Fantasy-Cricket-Game)| [chavarera](https://github.com/chavarera) |
+|3|Intermediate| Fantasy Cricket Game |[:link:](https://github.com/chavarera/Fantasy-Cricket-Game)| [chavarera](https://github.com/chavarera) |
