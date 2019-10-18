@@ -6,6 +6,12 @@ This is Simple Directory Of Different Python Project List
 
 ### Machine Learning
 1) [fundamentals of Machine Learning and Deep Learning](https://github.com/ageron/handson-ml) by [@ageron](https://github.com/ageron)
+2) [100 Days of Machine Learning Roadmap](https://github.com/Avik-Jain/100-Days-Of-ML-Code) by [@Avik-Jain](https://github.com/Avik-Jain)
+
+
+### Data Science
+1) [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) by [@jakevdp](https://github.com/jakevdp/)
+
 
 ### Algorithms
 1) [Minimal and clean Algorithms](https://github.com/keon/algorithms) by [@keon](https://github.com/keon/)
