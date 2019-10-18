@@ -4,13 +4,6 @@ This is Simple Directory Of Different Python Project List
 ### Python Tweaks and Tricks
 1) [python-cheatsheet](https://github.com/gto76/python-cheatsheet) by [@gto76](https://github.com/gto76)
 
-### Machine Learning
-1) [fundamentals of Machine Learning and Deep Learning](https://github.com/ageron/handson-ml) by [@ageron](https://github.com/ageron)
-2) [100 Days of Machine Learning Roadmap](https://github.com/Avik-Jain/100-Days-Of-ML-Code) by [@Avik-Jain](https://github.com/Avik-Jain)
-
-
-### Data Science
-1) [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) by [@jakevdp](https://github.com/jakevdp/)
 
 
 ### Algorithms
@@ -24,3 +17,13 @@ This is Simple Directory Of Different Python Project List
 
 ### UI Based Projects
 3) [Fantasy Cricket Game](https://github.com/chavarera/Fantasy-Cricket-Game) by [@chavarera](https://github.com/chavarera)
+
+
+## AI , ML , DL, DS
+### Machine Learning
+1) [fundamentals of Machine Learning and Deep Learning](https://github.com/ageron/handson-ml) by [@ageron](https://github.com/ageron)
+2) [100 Days of Machine Learning Roadmap](https://github.com/Avik-Jain/100-Days-Of-ML-Code) by [@Avik-Jain](https://github.com/Avik-Jain)
+
+
+### Data Science
+1) [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) by [@jakevdp](https://github.com/jakevdp/)
