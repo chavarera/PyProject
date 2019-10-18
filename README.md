@@ -7,6 +7,9 @@ This is Simple Directory Of Different Python Project List
 ### Machine Learning
 1) [fundamentals of Machine Learning and Deep Learning](https://github.com/ageron/handson-ml) by [@ageron](https://github.com/ageron)
 
+### Algorithms
+1) [Minimal and clean Algorithms](https://github.com/keon/algorithms) by [@keon](https://github.com/keon/)
+
 ### Windows Utility Projects
 1) [Windows Saved Password Manager](https://github.com/chavarera/WSPManager) by [@chavarera](https://github.com/chavarera)
 2) [Server Ping Manager](https://github.com/chavarera/ServerPingManager) by [@chavarera](https://github.com/chavarera)
