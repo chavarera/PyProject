@@ -18,7 +18,7 @@ This is Simple Directory Of Different Python Project List
 
 
 ### UI Based Projects
-3) [Fantasy Cricket Game](https://github.com/chavarera/Fantasy-Cricket-Game) by [@chavarera](https://github.com/chavarera)
+1) [Fantasy Cricket Game](https://github.com/chavarera/Fantasy-Cricket-Game) by [@chavarera](https://github.com/chavarera)
 
 
 ## AI , ML , DL, DS
