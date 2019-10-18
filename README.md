@@ -1,6 +1,9 @@
 # PyProject
 This is Simple Directory Of Different Python Project List
 
+### Python Tweaks and Tricks
+1) [python-cheatsheet](https://github.com/gto76/python-cheatsheet) by [@gto76](https://github.com/gto76)
+
 
 ### Windows Utility Projects
 |         |Level | Project Name  |Github|Author|
