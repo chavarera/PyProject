@@ -1,6 +1,8 @@
 # PyProject
 This is Simple Directory Of Different Python Project List
 
+### Basic Python(Beginner)
+1) [Python From Scratch](https://github.com/chavarera/PythonScript) by [@chavarera](https://github.com/chavarera)
 ### Python Tweaks and Tricks
 1) [python-cheatsheet](https://github.com/gto76/python-cheatsheet) by [@gto76](https://github.com/gto76)
 
@@ -20,10 +22,12 @@ This is Simple Directory Of Different Python Project List
 
 
 ## AI , ML , DL, DS
-### Machine Learning
+### Artificial Intelligence(AI)
+1) [AiLearning](https://github.com/apachecn/AiLearning) by [@apachecn](https://github.com/apachecn/)
+
+### Machine Learning(ML)
 1) [fundamentals of Machine Learning and Deep Learning](https://github.com/ageron/handson-ml) by [@ageron](https://github.com/ageron)
 2) [100 Days of Machine Learning Roadmap](https://github.com/Avik-Jain/100-Days-Of-ML-Code) by [@Avik-Jain](https://github.com/Avik-Jain)
 
-
-### Data Science
+### Data Science(DS)
 1) [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) by [@jakevdp](https://github.com/jakevdp/)
